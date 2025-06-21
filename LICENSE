@@ -1,0 +1,18 @@
+My New License - Version 1.0
+
+To publish a pkg, it must include the following:
+- A folder named after your GitHub username
+- Your pkg.cpp file
+- You may publish as many packages as you like.
+
+You may not:
+- Edit other users' pkgs
+- Delete other users' pkgs
+- Perform any malicious actions in general.
+
+All pkgs are under the conditions above.
+
+If you do not comply, your packages will be removed and your pull requests will no longer be accepted.
+
+You may do whatever you want with the editor itself.
+
